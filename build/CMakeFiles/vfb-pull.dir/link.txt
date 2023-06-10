@@ -1,0 +1,2 @@
+/usr/bin/ar qc libvfb-pull.a CMakeFiles/vfb-pull.dir/vfb-pull.cpp.o
+/usr/bin/ranlib libvfb-pull.a

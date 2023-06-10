@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/denis/vfb-net/vfb-pull/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/vfb-pull.dir/vfb-pull.cpp.o -c /home/denis/vfb-net/vfb-pull/vfb-pull.cpp",
+  "file": "/home/denis/vfb-net/vfb-pull/vfb-pull.cpp"
+}
+]
